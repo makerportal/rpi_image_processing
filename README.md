@@ -1,7 +1,7 @@
 # Raspberry Pi and Python Image Processing in Real-Time with the picamera
 Using Raspberry Pi and the picamera to analyze images in real-time using Python.
 
->The final output should be able to predict the color of an image in the following printout from the console:
+**The final output should be able to predict the color of an image in the following printout from the console:**
 
 ```
 ===========================
@@ -16,5 +16,5 @@ Blue---mean: 1.0, stdev: 24.8
 The Object is: Green
 --------------------------
 ```
-> Example
+** Wiring to the Raspberry Pi **
 ![alt text](/picamera_rpi_blog_logo.JPG)
