@@ -16,3 +16,4 @@ Blue---mean: 1.0, stdev: 24.8
 The Object is: Green
 --------------------------
 ```
+![alt text](.png)
