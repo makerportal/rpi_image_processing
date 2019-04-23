@@ -3,6 +3,7 @@ Using Raspberry Pi and the picamera to analyze images in real-time using Python.
 
 The final output should be able to predict the color of an image in the following printout from the console:
 
+'''
 ===========================
 press enter to capture image
 -------------------------
@@ -14,3 +15,4 @@ Blue---mean: 1.0, stdev: 24.8
 --------------------------
 The Object is: Green
 --------------------------
+'''
